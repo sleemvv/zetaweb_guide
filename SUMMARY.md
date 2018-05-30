@@ -9,5 +9,4 @@
 * Ценообразование
   * [Ценообразование по сегментам номенклатуры](cenoobrazovanie/po-segmentam-nomenklatury.md)
   * [Специальные цены](cenoobrazovanie/untitled-1.md)
-* Настройка и администрирование
 

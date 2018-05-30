@@ -1,4 +1,4 @@
 # Table of contents
 
-* Initial page
+* [Zeta Web. Инструкции по применению.](README.md)
 

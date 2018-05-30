@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Zeta Web. Инструкции по применению.](README.md)
+* [Введение](README.md)
 * Управление контентом
   * [Метатеги](untitled/metategi.md)
 * [Настройка логистики](nastroika-logistiki.md)

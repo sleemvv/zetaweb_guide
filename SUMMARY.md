@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Введение](README.md)
-* О продукте
-  * [Введение](o-produkte/untitled-1.md)
+* [Введение](untitled-1/README.md)
+  * [Состав продукта Zeta Web](untitled-1/o-produkte.md)
 * Управление контентом
   * [Метатеги](untitled/metategi.md)
 * [Настройка логистики](nastroika-logistiki.md)

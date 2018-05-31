@@ -120,6 +120,10 @@
 {% endtab %}
 {% endtabs %}
 
+{% embed data="{\"url\":\"https://i.imgur.com/L9CaUtu.png\",\"type\":\"rich\",\"title\":\"Imgur\",\"icon\":{\"type\":\"icon\",\"url\":\"https://s.imgur.com/images/favicon-96x96.png\",\"width\":96,\"height\":96,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.imgur.com/L9CaUtu.png\",\"width\":999,\"height\":597,\"aspectRatio\":0.5975975975975976},\"embed\":{\"type\":\"app\",\"html\":\"<blockquote class=\\\"imgur-embed-pub\\\" lang=\\\"en\\\" data-id=\\\"L9CaUtu\\\"><a href=\\\"https://imgur.com/L9CaUtu\\\">View post on imgur.com</a></blockquote><script async src=\\\"//s.imgur.com/min/embed.js\\\" charset=\\\"utf-8\\\"></script>\",\"maxWidth\":540,\"aspectRatio\":null}}" %}
+
+
+
 ```css
 .aside-filter {
 	margin-bottom: 0px;

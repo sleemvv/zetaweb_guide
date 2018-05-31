@@ -1,9 +1,5 @@
 # Верстка 1
 
-![](https://www.zetasoft.ru/i/shema-vzaimodeisviya-min.png?imgw=1000&imgh=597)
-
-
-
 {% tabs %}
 {% tab title="First Tab" %}
 ```css

@@ -3,89 +3,89 @@
 * [Введение](README.md)
 * [Введение](vvedenie-1/README.md)
   * [Состав продукта Zeta Web](vvedenie-1/sostav-produkta-zeta-web.md)
-* Управление контентом
+* [Управление контентом](upravlenie-kontentom/README.md)
   * [Метатеги](upravlenie-kontentom/metategi.md)
-  * [Верстка 1](upravlenie-kontentom/verstka-1.md)
+  * [Настройка редиректов \(IIS\)](upravlenie-kontentom/nastroika-redirektov-iis.md)
 * [Настройка логистики](nastroika-logistiki.md)
-* Ценообразование
+* [Ценообразование](cenoobrazovanie/README.md)
   * [Ценообразование по сегментам номенклатуры](cenoobrazovanie/cenoobrazovanie-po-segmentam-nomenklatury.md)
   * [Специальные цены](cenoobrazovanie/specialnye-ceny.md)
-* Видеообзор основных функций
-  * Структура реализации Zeta Web. Основные принципы
-  * Работа с товарами. Поиск
-    * Строка поиска
-    * Каталог
-    * Свойства \(в каталоге и подборе по авто\)
-    * Подбор по авто
-    * Laximo
-    * Информация о товаре в результатах
-    * Карточка товара
-  * Пользователи сайта:
-    * Пользователи. Связь с контрагентами
-    * Варианты регистрации и создания пользователей
-    * Договор контрагента
-    * Настройки пользователя
-    * Роли пользователей. Настройка ролей
-    * Права доступа в рамках роли
-    * Суперпользователь
-  * Склады и наличие:
-    * Группы доступности складов. Рейтинг склада
-    * Продажа товара под заказ
-    * Описание складов
-    * Обозначения наличия
-    * Настройка сроков доставки \(логистика\)
-    * Склады отгрузки. Выбор склада отгрузки на сайте.
-  * Ценообразование:
-    * Поддерживаемые механизмы УТ 10.3
-    * Ценообразование по сегментам
-    * Спец. Цены
-  * Оформление заказа:
-    * Добавление в корзину
-    * Редактирование корзины
-    * Настройка способов доставки и оплаты
-    * Выбор способа доставки и оплаты
-    * Оформление заказа без регистрации
-    * Быстрая регистрация
-    * Информация о заказе
-    * Счет, квитанция, эквайринг
-  * Заказы:
-    * Журнал заказов
-    * Журнал реализаций
-    * Журнал по строкам
-    * Статусы строк заказов
-    * Обработка заказов в 1С
-    * Возврат и отмена позиций из заказа. Настройка статусов для отмены и возврата
-    * Заявки на отмену и возврат. Журнал возвратов
-  * Финансы:
-    * Взаиморасчеты
-    * Платежный календарь
-    * Баланс, задолженность, лимит, отсрочка
-    * Постоплата
-  * Настройки пользователя:
-    * Личные данные \(ФИО, тел, почта, логин, пароль\)
-    * Доп. инфо для юр. лиц
-    * Адреса доставки
-    * Ваш менеджер
-    * Настройка оповещений об изменении статуса строки заказа
-    * Настройка получения прайс-листов
-    * Мои авто \(гараж\)
-  * Обратная связь:
-    * Вопрос менеджеру. История переписки
-    * Анкета \(запрос по VIN\)
-  * Наполнение \(контент\):
-    * Структура сайта. Страницы – Области – Переменные
-    * Html-редактор
-    * Контролы. Шаблоны контролов. Статический и динамический контент
-    * CSS-классы в 1С
-    * Картинки и файлы
-    * Инфоблоки
-    * Баннеры
-    * Опросы
-    * Теги и Метатеги страниц \(SEO\)
-    * Head, Body, robots.txt
-  * Обмен с сайтом:
-    * Режимы работы
-    * Основные настройки. Расписание регламентного задания
-    * Лог обмена
-    * Запросы
+* [Видеообзор основных функций](videoobzor-osnovnykh-funkcii/README.md)
+  * [Структура реализации Zeta Web. Основные принципы](videoobzor-osnovnykh-funkcii/struktura-realizacii-zeta-web.-osnovnye-principy.md)
+  * [Работа с товарами. Поиск](videoobzor-osnovnykh-funkcii/rabota-s-tovarami.-poisk/README.md)
+    * [Строка поиска](videoobzor-osnovnykh-funkcii/rabota-s-tovarami.-poisk/stroka-poiska.md)
+    * [Каталог](videoobzor-osnovnykh-funkcii/rabota-s-tovarami.-poisk/katalog.md)
+    * [Свойства \(в каталоге и подборе по авто\)](videoobzor-osnovnykh-funkcii/rabota-s-tovarami.-poisk/svoistva-v-kataloge-i-podbore-po-avto.md)
+    * [Подбор по авто](videoobzor-osnovnykh-funkcii/rabota-s-tovarami.-poisk/podbor-po-avto.md)
+    * [Laximo](videoobzor-osnovnykh-funkcii/rabota-s-tovarami.-poisk/laximo.md)
+    * [Информация о товаре в результатах](videoobzor-osnovnykh-funkcii/rabota-s-tovarami.-poisk/informaciya-o-tovare-v-rezultatakh.md)
+    * [Карточка товара](videoobzor-osnovnykh-funkcii/rabota-s-tovarami.-poisk/kartochka-tovara.md)
+  * [Пользователи сайта:](videoobzor-osnovnykh-funkcii/polzovateli-saita/README.md)
+    * [Пользователи. Связь с контрагентами](videoobzor-osnovnykh-funkcii/polzovateli-saita/polzovateli.-svyaz-s-kontragentami.md)
+    * [Варианты регистрации и создания пользователей](videoobzor-osnovnykh-funkcii/polzovateli-saita/varianty-registracii-i-sozdaniya-polzovatelei.md)
+    * [Договор контрагента](videoobzor-osnovnykh-funkcii/polzovateli-saita/dogovor-kontragenta.md)
+    * [Настройки пользователя](videoobzor-osnovnykh-funkcii/polzovateli-saita/nastroiki-polzovatelya.md)
+    * [Роли пользователей. Настройка ролей](videoobzor-osnovnykh-funkcii/polzovateli-saita/roli-polzovatelei.-nastroika-rolei.md)
+    * [Права доступа в рамках роли](videoobzor-osnovnykh-funkcii/polzovateli-saita/prava-dostupa-v-ramkakh-roli.md)
+    * [Суперпользователь](videoobzor-osnovnykh-funkcii/polzovateli-saita/superpolzovatel.md)
+  * [Склады и наличие:](videoobzor-osnovnykh-funkcii/sklady-i-nalichie/README.md)
+    * [Группы доступности складов. Рейтинг склада](videoobzor-osnovnykh-funkcii/sklady-i-nalichie/gruppy-dostupnosti-skladov.-reiting-sklada.md)
+    * [Продажа товара под заказ](videoobzor-osnovnykh-funkcii/sklady-i-nalichie/prodazha-tovara-pod-zakaz.md)
+    * [Описание складов](videoobzor-osnovnykh-funkcii/sklady-i-nalichie/opisanie-skladov.md)
+    * [Обозначения наличия](videoobzor-osnovnykh-funkcii/sklady-i-nalichie/oboznacheniya-nalichiya.md)
+    * [Настройка сроков доставки \(логистика\)](videoobzor-osnovnykh-funkcii/sklady-i-nalichie/nastroika-srokov-dostavki-logistika.md)
+    * [Склады отгрузки. Выбор склада отгрузки на сайте.](videoobzor-osnovnykh-funkcii/sklady-i-nalichie/sklady-otgruzki.-vybor-sklada-otgruzki-na-saite..md)
+  * [Ценообразование:](videoobzor-osnovnykh-funkcii/cenoobrazovanie/README.md)
+    * [Поддерживаемые механизмы УТ 10.3](videoobzor-osnovnykh-funkcii/cenoobrazovanie/podderzhivaemye-mekhanizmy-ut-10.3.md)
+    * [Ценообразование по сегментам](videoobzor-osnovnykh-funkcii/cenoobrazovanie/cenoobrazovanie-po-segmentam.md)
+    * [Спец. Цены](videoobzor-osnovnykh-funkcii/cenoobrazovanie/spec.-ceny.md)
+  * [Оформление заказа:](videoobzor-osnovnykh-funkcii/oformlenie-zakaza/README.md)
+    * [Добавление в корзину](videoobzor-osnovnykh-funkcii/oformlenie-zakaza/dobavlenie-v-korzinu.md)
+    * [Редактирование корзины](videoobzor-osnovnykh-funkcii/oformlenie-zakaza/redaktirovanie-korziny.md)
+    * [Настройка способов доставки и оплаты](videoobzor-osnovnykh-funkcii/oformlenie-zakaza/nastroika-sposobov-dostavki-i-oplaty.md)
+    * [Выбор способа доставки и оплаты](videoobzor-osnovnykh-funkcii/oformlenie-zakaza/vybor-sposoba-dostavki-i-oplaty.md)
+    * [Оформление заказа без регистрации](videoobzor-osnovnykh-funkcii/oformlenie-zakaza/oformlenie-zakaza-bez-registracii.md)
+    * [Быстрая регистрация](videoobzor-osnovnykh-funkcii/oformlenie-zakaza/bystraya-registraciya.md)
+    * [Информация о заказе](videoobzor-osnovnykh-funkcii/oformlenie-zakaza/informaciya-o-zakaze.md)
+    * [Счет, квитанция, эквайринг](videoobzor-osnovnykh-funkcii/oformlenie-zakaza/schet-kvitanciya-ekvairing.md)
+  * [Заказы:](videoobzor-osnovnykh-funkcii/zakazy/README.md)
+    * [Журнал заказов](videoobzor-osnovnykh-funkcii/zakazy/zhurnal-zakazov.md)
+    * [Журнал реализаций](videoobzor-osnovnykh-funkcii/zakazy/zhurnal-realizacii.md)
+    * [Журнал по строкам](videoobzor-osnovnykh-funkcii/zakazy/zhurnal-po-strokam.md)
+    * [Статусы строк заказов](videoobzor-osnovnykh-funkcii/zakazy/statusy-strok-zakazov.md)
+    * [Обработка заказов в 1С](videoobzor-osnovnykh-funkcii/zakazy/obrabotka-zakazov-v-1s.md)
+    * [Возврат и отмена позиций из заказа. Настройка статусов для отмены и возврата](videoobzor-osnovnykh-funkcii/zakazy/vozvrat-i-otmena-pozicii-iz-zakaza.-nastroika-statusov-dlya-otmeny-i-vozvrata.md)
+    * [Заявки на отмену и возврат. Журнал возвратов](videoobzor-osnovnykh-funkcii/zakazy/zayavki-na-otmenu-i-vozvrat.-zhurnal-vozvratov.md)
+  * [Финансы:](videoobzor-osnovnykh-funkcii/finansy/README.md)
+    * [Взаиморасчеты](videoobzor-osnovnykh-funkcii/finansy/vzaimoraschety.md)
+    * [Платежный календарь](videoobzor-osnovnykh-funkcii/finansy/platezhnyi-kalendar.md)
+    * [Баланс, задолженность, лимит, отсрочка](videoobzor-osnovnykh-funkcii/finansy/balans-zadolzhennost-limit-otsrochka.md)
+    * [Постоплата](videoobzor-osnovnykh-funkcii/finansy/postoplata.md)
+  * [Настройки пользователя:](videoobzor-osnovnykh-funkcii/nastroiki-polzovatelya/README.md)
+    * [Личные данные \(ФИО, тел, почта, логин, пароль\)](videoobzor-osnovnykh-funkcii/nastroiki-polzovatelya/lichnye-dannye-fio-tel-pochta-login-parol.md)
+    * [Доп. инфо для юр. лиц](videoobzor-osnovnykh-funkcii/nastroiki-polzovatelya/dop.-info-dlya-yur.-lic.md)
+    * [Адреса доставки](videoobzor-osnovnykh-funkcii/nastroiki-polzovatelya/adresa-dostavki.md)
+    * [Ваш менеджер](videoobzor-osnovnykh-funkcii/nastroiki-polzovatelya/vash-menedzher.md)
+    * [Настройка оповещений об изменении статуса строки заказа](videoobzor-osnovnykh-funkcii/nastroiki-polzovatelya/nastroika-opoveshenii-ob-izmenenii-statusa-stroki-zakaza.md)
+    * [Настройка получения прайс-листов](videoobzor-osnovnykh-funkcii/nastroiki-polzovatelya/nastroika-polucheniya-prais-listov.md)
+    * [Мои авто \(гараж\)](videoobzor-osnovnykh-funkcii/nastroiki-polzovatelya/moi-avto-garazh.md)
+  * [Обратная связь:](videoobzor-osnovnykh-funkcii/obratnaya-svyaz/README.md)
+    * [Вопрос менеджеру. История переписки](videoobzor-osnovnykh-funkcii/obratnaya-svyaz/vopros-menedzheru.-istoriya-perepiski.md)
+    * [Анкета \(запрос по VIN\)](videoobzor-osnovnykh-funkcii/obratnaya-svyaz/anketa-zapros-po-vin.md)
+  * [Наполнение \(контент\):](videoobzor-osnovnykh-funkcii/napolnenie-kontent/README.md)
+    * [Структура сайта. Страницы – Области – Переменные](videoobzor-osnovnykh-funkcii/napolnenie-kontent/struktura-saita.-stranicy-oblasti-peremennye.md)
+    * [Html-редактор](videoobzor-osnovnykh-funkcii/napolnenie-kontent/html-redaktor.md)
+    * [Контролы. Шаблоны контролов. Статический и динамический контент](videoobzor-osnovnykh-funkcii/napolnenie-kontent/kontroly.-shablony-kontrolov.-staticheskii-i-dinamicheskii-kontent.md)
+    * [CSS-классы в 1С](videoobzor-osnovnykh-funkcii/napolnenie-kontent/css-klassy-v-1s.md)
+    * [Картинки и файлы](videoobzor-osnovnykh-funkcii/napolnenie-kontent/kartinki-i-faily.md)
+    * [Инфоблоки](videoobzor-osnovnykh-funkcii/napolnenie-kontent/infobloki.md)
+    * [Баннеры](videoobzor-osnovnykh-funkcii/napolnenie-kontent/bannery.md)
+    * [Опросы](videoobzor-osnovnykh-funkcii/napolnenie-kontent/oprosy.md)
+    * [Теги и Метатеги страниц \(SEO\)](videoobzor-osnovnykh-funkcii/napolnenie-kontent/tegi-i-metategi-stranic-seo.md)
+    * [Head, Body, robots.txt](videoobzor-osnovnykh-funkcii/napolnenie-kontent/head-body-robots.txt.md)
+  * [Обмен с сайтом:](videoobzor-osnovnykh-funkcii/obmen-s-saitom/README.md)
+    * [Режимы работы](videoobzor-osnovnykh-funkcii/obmen-s-saitom/rezhimy-raboty.md)
+    * [Основные настройки. Расписание регламентного задания](videoobzor-osnovnykh-funkcii/obmen-s-saitom/osnovnye-nastroiki.-raspisanie-reglamentnogo-zadaniya.md)
+    * [Лог обмена](videoobzor-osnovnykh-funkcii/obmen-s-saitom/log-obmena.md)
+    * [Запросы](videoobzor-osnovnykh-funkcii/obmen-s-saitom/zaprosy.md)
 

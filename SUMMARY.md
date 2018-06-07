@@ -20,4 +20,5 @@
 * [Поддержка онлайн-платежей](podderzhka-onlain-platezhei.md)
 * [Внешние  сервисы и каталоги по подбору автозапчастей](vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/README.md)
   * [Laximo](vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo.md)
+* [История изменений](istoriya-izmenenii.md)
 

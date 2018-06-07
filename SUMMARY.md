@@ -3,6 +3,7 @@
 * [Введение](README.md)
 * [Введение](vvedenie-1/README.md)
   * [Состав продукта Zeta Web](vvedenie-1/sostav-produkta-zeta-web.md)
+  * [Контролы](vvedenie-1/kontroly.md)
 * [Управление контентом](upravlenie-kontentom/README.md)
   * [Метатеги](upravlenie-kontentom/metategi.md)
   * [Настройка редиректов \(IIS\)](upravlenie-kontentom/nastroika-redirektov-iis.md)
@@ -14,8 +15,7 @@
   * [Ценообразование по сегментам номенклатуры](cenoobrazovanie/cenoobrazovanie-po-segmentam-nomenklatury.md)
   * [Специальные цены](cenoobrazovanie/specialnye-ceny.md)
 * [Сортировка товаров на странице](sortirovka-tovarov-na-stranice.md)
-* [Статусы строк заказов](untitled.md)
+* [Статусы строк заказов](statusy-strok-zakazov.md)
 * [Возвраты и отказы](vozvraty-i-otkazy.md)
 * [Поддержка онлайн-платежей](podderzhka-onlain-platezhei.md)
-* [Контролы](kontroly.md)
 

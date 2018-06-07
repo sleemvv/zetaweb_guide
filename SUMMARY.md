@@ -22,5 +22,5 @@
   * [Laximo](vneshnie-servisy-i-katalogi-po-podboru-avtozapchastei/laximo.md)
 * [История изменений](istoriya-izmenenii/README.md)
   * [История изменений веб-части](istoriya-izmenenii/istoriya-izmenenii-veb-chasti.md)
-  * [История изменений 1С-части](istoriya-izmenenii/istoriya-izmenenishi-1s-chastis.md)
+  * [История изменений 1С-части](istoriya-izmenenii/istoriya-izmenenishi-1s-chasti.md)
 

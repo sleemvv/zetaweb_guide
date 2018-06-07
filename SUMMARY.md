@@ -15,4 +15,5 @@
 * [Сортировка товаров на странице](sortirovka-tovarov-na-stranice.md)
 * [Статусы строк заказов](untitled.md)
 * [Возвраты и отказы](vozvraty-i-otkazy.md)
+* [Поддержка онлайн-платежей](podderzhka-onlain-platezhei.md)
 

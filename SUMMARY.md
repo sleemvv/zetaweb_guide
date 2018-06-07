@@ -8,6 +8,8 @@
   * [Настройка редиректов \(IIS\)](upravlenie-kontentom/nastroika-redirektov-iis.md)
 * [Настройка логистики](nastroika-logistiki.md)
 * [Ценообразование](cenoobrazovanie/README.md)
+  * [Для 1С Управление торговлей ред. 10.3](cenoobrazovanie/dlya-1s-upravlenie-torgovlei-red.-10.3.md)
+  * [Для Альфа Авто](cenoobrazovanie/dlya-alfa-avto.md)
   * [Ценообразование по сегментам номенклатуры](cenoobrazovanie/cenoobrazovanie-po-segmentam-nomenklatury.md)
   * [Специальные цены](cenoobrazovanie/specialnye-ceny.md)
 

@@ -6,6 +6,7 @@
 * [Управление контентом](upravlenie-kontentom/README.md)
   * [Метатеги](upravlenie-kontentom/metategi.md)
   * [Настройка редиректов \(IIS\)](upravlenie-kontentom/nastroika-redirektov-iis.md)
+  * [Настройки сайта после загрузки начальных данных и типового дизайна](upravlenie-kontentom/nastroiki-saita-posle-zagruzki-nachalnykh-dannykh-i-tipovogo-dizaina.md)
 * [Настройка логистики](nastroika-logistiki.md)
 * [Ценообразование](cenoobrazovanie/README.md)
   * [Для 1С Управление торговлей ред. 10.3](cenoobrazovanie/dlya-1s-upravlenie-torgovlei-red.-10.3.md)

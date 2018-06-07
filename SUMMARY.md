@@ -12,4 +12,6 @@
   * [Для Альфа Авто](cenoobrazovanie/dlya-alfa-avto.md)
   * [Ценообразование по сегментам номенклатуры](cenoobrazovanie/cenoobrazovanie-po-segmentam-nomenklatury.md)
   * [Специальные цены](cenoobrazovanie/specialnye-ceny.md)
+* [Сортировка товаров на странице](sortirovka-tovarov-na-stranice.md)
+* [Статусы строк заказа](untitled.md)
 
